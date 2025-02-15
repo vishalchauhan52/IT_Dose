@@ -1,40 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\",
+  "WorkspaceRootPath": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\models\\patientmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\models\\patientmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:models\\patientmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\db_connection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\db_connection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:db_connection\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\repository\\ipatientmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\repository\\ipatientmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:repository\\ipatientmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\controllers\\patientmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\controllers\\patientmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:controllers\\patientmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\repository\\patientmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\repository\\patientmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:repository\\patientmasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Task_Company\\Task_ITDose\\Migrations\\20250210075008_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|e:\\files\\downloads\\task_itdose1\\task_itdose\\migrations\\20250210075418_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|f:\\git-hub\\task_itdose1\\task_itdose\\migrations\\20250210075418_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E05AAE1-58DD-411E-901A-442D1757DC48}|Task_ITDose.csproj|solutionrelative:migrations\\20250210075418_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -59,9 +59,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PatientMasterController.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Controllers\\PatientMasterController.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Controllers\\PatientMasterController.cs",
               "RelativeDocumentMoniker": "Controllers\\PatientMasterController.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Controllers\\PatientMasterController.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Controllers\\PatientMasterController.cs",
               "RelativeToolTip": "Controllers\\PatientMasterController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAIBCwBIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "PatientMasterService.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Repository\\PatientMasterService.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Repository\\PatientMasterService.cs",
               "RelativeDocumentMoniker": "Repository\\PatientMasterService.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Repository\\PatientMasterService.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Repository\\PatientMasterService.cs",
               "RelativeToolTip": "Repository\\PatientMasterService.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAIwBwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,9 +83,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IPatientMaster.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Repository\\IPatientMaster.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Repository\\IPatientMaster.cs",
               "RelativeDocumentMoniker": "Repository\\IPatientMaster.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Repository\\IPatientMaster.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Repository\\IPatientMaster.cs",
               "RelativeToolTip": "Repository\\IPatientMaster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "20250210075418_create.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Migrations\\20250210075418_create.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Migrations\\20250210075418_create.cs",
               "RelativeDocumentMoniker": "Migrations\\20250210075418_create.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Migrations\\20250210075418_create.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Migrations\\20250210075418_create.cs",
               "RelativeToolTip": "Migrations\\20250210075418_create.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Program.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Program.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAcwBIAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\appsettings.json",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\appsettings.json",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -141,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Db_Connection\\AppDbContext.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Db_Connection\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Db_Connection\\AppDbContext.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Db_Connection\\AppDbContext.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Db_Connection\\AppDbContext.cs",
               "RelativeToolTip": "Db_Connection\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +153,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PatientMaster.cs",
-              "DocumentMoniker": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Models\\PatientMaster.cs",
+              "DocumentMoniker": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Models\\PatientMaster.cs",
               "RelativeDocumentMoniker": "Models\\PatientMaster.cs",
-              "ToolTip": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Models\\PatientMaster.cs",
+              "ToolTip": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Models\\PatientMaster.cs",
               "RelativeToolTip": "Models\\PatientMaster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T09:24:27.917Z",
               "EditorCaption": ""

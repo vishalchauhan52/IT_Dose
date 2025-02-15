@@ -3423,11 +3423,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Task_ITDose.csproj",
+      "projectUniqueName": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Task_ITDose.csproj",
       "projectName": "Task_ITDose",
-      "projectPath": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Task_ITDose.csproj",
+      "projectPath": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Task_ITDose.csproj",
       "packagesPath": "C:\\Users\\Vishal Chauhan\\.nuget\\packages\\",
-      "outputPath": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\obj\\",
+      "outputPath": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

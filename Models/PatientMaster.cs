@@ -11,7 +11,7 @@ namespace Task_ITDose.Models
         public string Gender { get; set; }
         [DataType(DataType.Date)]
         public DateTime DOB { get; set; }
-        [Required(ErrorMessage ="Please Enter Mobile Number")]
+        [Required(ErrorMessage ="Please Enter my Mobile Number")]
         [StringLength(10,MinimumLength =10 , ErrorMessage =("Mobile Number must be 10 digits"))]
         [RegularExpression(@"^\d{10}$" , ErrorMessage ="Mobile number fill only Numeric Number")]
         public string MobileNo { get; set; }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vXIOMIUYXfk=",
+  "dgSpecHash": "ogd9hvQL24A=",
   "success": true,
-  "projectFilePath": "E:\\files\\Downloads\\Task_ItDose1\\Task_ITDose\\Task_ITDose.csproj",
+  "projectFilePath": "F:\\Git-Hub\\Task_ItDose1\\Task_ITDose\\Task_ITDose.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vishal Chauhan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Vishal Chauhan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
